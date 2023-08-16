@@ -25,3 +25,10 @@
    1.Var
    2.Let
    3.Const
+
+  ### В js есть 5 операторов: ###
+  1.Arithmetic
+  2.Comparision
+  3.Logical
+  4.Type Conversions
+  5.Assigment
